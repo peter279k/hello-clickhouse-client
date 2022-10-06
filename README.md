@@ -10,4 +10,4 @@
 
 - `mvn compile`
 - `mvn package`
-- `java -jar target/hello-clickhouse-java-0.1.0.jar`
+- `java -jar target/hello-clickhouse-client-0.1.0.jar`
